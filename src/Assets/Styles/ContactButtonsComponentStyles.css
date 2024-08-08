@@ -1,9 +1,8 @@
 .card{
     z-index: 1001;
     position: fixed;
-    bottom: 0;
-    right: 0;
-    margin: 25px;
+    bottom: 2%;
+    right: 3%;
     width: fit-content;
     height: fit-content;
     padding: 10px 10px;
