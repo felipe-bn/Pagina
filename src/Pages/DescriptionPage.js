@@ -39,7 +39,7 @@ function DescriptionPage(props){
         <main className="main" id="description">
             <section className="description-cont">
             <animated.h1 style={left} ref={ref}>I'm Felipe Padrós</animated.h1>
-            <animated.p style={right} ref={ref}>I am currently studying software development at UADE. Im from Buenos Aires, Argentina
+            <animated.p style={right} ref={ref}>I am currently studying software development at UADE. Im from Buenos Aires Argentina,
                 and i love play Rugby and write code.
             </animated.p>
             <animated.p style={left} ref={ref}>Wanna see my Projects??</animated.p>
