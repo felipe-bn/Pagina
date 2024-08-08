@@ -9,10 +9,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 #projects span{
     margin-top: 50px;
     font-size: 40px;
+
 }
 .dot-spinner {
     --uib-size: 2.8rem;

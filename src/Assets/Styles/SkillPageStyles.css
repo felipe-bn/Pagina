@@ -69,18 +69,22 @@
     }
     .skills{
         width: 300px;
+
     }
 
 }
-@media (min-width: 301px){
+@media (min-width: 301px) and (max-width: 979px){
     #skill{
         height: 100vh;
+
     }
     .skill-container h1{
         text-align: center;
+
     }
     .skills{
         justify-content: center;
+
     }
 }
 @media (min-width: 980px){

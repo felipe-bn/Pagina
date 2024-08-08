@@ -136,15 +136,19 @@
 @media (min-width: 303px) and (max-width: 980px){
   #services{
     height: fit-content;
+
   }
   .services-container h1{
     text-align: center;
+
   }
   .ser-cont{
     width: 100%;
     flex-wrap: wrap;
+
   }
   .button2{
     margin-bottom: 25px;
+
   }
 }

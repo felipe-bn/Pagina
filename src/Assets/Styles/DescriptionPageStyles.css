@@ -14,10 +14,9 @@
 .description-cont h1{
     font-size: 50px;
     letter-spacing: 5px;
-
 }
 .description-cont p{
-    max-width: 500px;
+    width: 90%;
     text-align: center;
     letter-spacing: 3px;
     font-size: 20px;
@@ -27,7 +26,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    width: 500px;
+    width: 100%;
     margin-top: 25px;
 
 }
