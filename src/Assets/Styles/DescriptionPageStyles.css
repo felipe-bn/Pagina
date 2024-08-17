@@ -16,7 +16,7 @@
     letter-spacing: 5px;
 }
 .description-cont p{
-    width: 90%;
+    width: 100%;
     text-align: center;
     letter-spacing: 3px;
     font-size: 20px;
@@ -88,7 +88,7 @@
     }
     .btn{
       width: 250px;
-      margin: 25px;
+      margin-bottom: 25px;
     }
   }
 @media (min-width: 303px) and (max-width: 400px){
@@ -99,6 +99,11 @@
     flex-direction: row;
     align-items: center;
     width: 100%;
+  }
+}
+@media (min-width: 650px){
+  .btns-cont{
+    padding: 50px;
   }
 }
   

@@ -11,9 +11,9 @@
 }
 .skill-container{
     height: 100%;
+    align-items: center;
 }
 .skill-cont{
-    margin: 10px;
     color: white;
     display: flex;
     align-items: center;
@@ -36,6 +36,7 @@
     font-size: 50px;
 }
 .skills{
+    gap: 5px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -84,7 +85,6 @@
     }
     .skills{
         justify-content: center;
-
     }
 }
 @media (min-width: 980px){
@@ -96,6 +96,7 @@
         display: flex;
         flex-wrap: wrap;
         flex-direction: row;
+        justify-content: space-around;
         width: 500px;
         height: 70%;
     }

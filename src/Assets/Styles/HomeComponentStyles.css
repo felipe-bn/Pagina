@@ -53,3 +53,10 @@
     font-size: 40px;
   }
 }
+@media (max-width: 300px){
+  .job{
+    font-size: 30px;
+    margin-bottom: 100px;
+
+  }
+}
